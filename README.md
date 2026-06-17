@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 💻 Web application engineer | 🙍cybersecurity student | ✨welcome any opportunities and challenges!
 
 - I'm a student based in Hokkaido, Japan.
+- I have more than 5 year experience using Kali Linux and playing HackTheBox.
 - I work online at a Web development company while studying at a school.
 - My dream is to be a white hacker who can contribute a lot to raise awareness among Japanese people.
 
